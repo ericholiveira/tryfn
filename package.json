@@ -1,6 +1,6 @@
 {
   "name": "tryfn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wraps try-catch for better performance and readability",
   "main": "src/index.js",
   "scripts": {
