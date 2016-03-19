@@ -52,7 +52,7 @@ var catcher = function(e){
     console.log(e);
     return 42;
 };
-var result = Try(myFunctionWhichCanFail).catchFn(42);//no need to call .value
+var result = Try(myFunctionWhichCanFail).catchFn(catcher);//no need to call .value
 ```
 
 And for last and not least you can use it to handle multiple errors types as:
