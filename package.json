@@ -1,7 +1,7 @@
 {
   "name": "tryfn",
-  "version": "1.0.0",
-  "description": "Wraps try-catch for battle performance and readability",
+  "version": "1.0.1",
+  "description": "Wraps try-catch for better performance and readability",
   "main": "src/index.js",
   "scripts": {
     "test": "grunt test"
